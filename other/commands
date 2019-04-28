@@ -1,0 +1,40 @@
+#Sheet is a tab in an excel workbook
+#compy is the delete script
+#Default delete script contains everything in compy
+#Remove means remove from the remove from delete script
+#Drop means remove from the current sheet
+=
+*SHOW
+£show compy                                     Show the files that are in the current delete script
+£show sheets                                    show all available sheets in the workbook
+£show info                                      show info about changes
+£show sheet                                     shows the files in the current sheet
+£show extension sheet                           shows a list of extensions for the currently active sheet
+£show extension compy                           shows a list of extensions that are in the delete script
+
+*DROP
+£drop sheet <id>                                delete the sheet with the id number from memory
+
+*SELECT
+£select sheet <id>                              select the sheet with id number to become the active sheet
+£select unique from sheet "column"              print all unique rows from the current sheet with the column
+£select unique from compy "column"              print all unique rows from the current compy delete script with the column
+£select empty from sheet "column"               print all rows where the column is empty/NaN
+
+*REMOVE
+£remove where sheet <column> is "x","y","z"
+£remove where compy <column> is "x","y","z"
+
+*SET
+£set os windows                                 Set the file to be exported as Windows friendly
+£set os linux                                   Set the file to be exported as Linux friendly
+
+*SPLIT
+£split sheet
+£split compy
+
+*OTHER
+£save                                           Export the delete script to the same location as the compy Dataframe
+£back                                           Go back
+£help                                           Show this help page
+£!<cmd>                                         Execute a linux command

@@ -1,0 +1,41 @@
+Name,Path,Binary,Extracted,Extension,MD5,Archive,Parent
+0,sensors3.conf, /etc/sensors3.conf, True, False, .conf, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+1,ash.bashrc, /etc/bash.bashrc, True, True, .bashrc, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+2,sgml, /etc/sgml, True, False, False, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+3,guymager, /etc/guymager, True, False, Flase, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+4,sensors.d, /etc/sensors.d, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+5,cisco-torch, /etc/cisco-torch, True, True, False, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+6,gdb, /etc/gdb, True, False, False, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+7,xfce4, /etc/xfce4, True, True, False, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+8,opt, /etc/opt, True, False, True, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+9,mime.types, /etc/mime.types, True, True, .types, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+10,rc4.d, /etc/rc4.d, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+11,usb_modeswitch.d, /etc/usb_modeswitch.d,  True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+12,resolv.conf.81VPVZ, /etc/resolv.conf, True, True, .conf,9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+13,cron.d, /etc/cron.d, True, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+14,udev, /etc/udev, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+15,odbc.ini, /etc/odbc.ini, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+16,sparta.conf, /etc/sparta.conf, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+17,sysstat, /etc/sysstat, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+18,group, /etc/group, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+19,sddm.conf, /etc/sddm.conf, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+20,ld.so.conf, /etc/ld.so, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+21,console-setup, /etc/console-setup, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+22,timezone, /etc/timezone, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+23,rlinetd.conf, /etc/rlinetd.conf, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+24,netconfig, /etc/netconfig, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+25,gshadow, /etc/gshadow, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+26,issue, /etc/issue, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+27,logcheck, /etc/logcheck, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+28,modprobe.d, /etc/modprobe.d, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+29,sane.d, /etc/sane.d, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+30,hdparm.conf, /etc/hdparm.conf, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+31,ucf.conf, /etc/ucf.conf, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+32,hostname, /etc/hostname, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+33,PackageKit, /etc/PackageKit, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+34,xml, /etc/xml, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+35,OpenCL, /etc/OpenCL, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+36,thin2.5, /etc/thin2.5, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+37,rsyslog.d, /etc/rsyslog.d, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+38,nfc, /etc/nfc, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
+40,vulkan, /etc/vulkan, True, True, .d, 9asd84f9a8sdf74a9sd8f7a9sd8f7asas89df7, False, False
